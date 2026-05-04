@@ -674,6 +674,7 @@
     "endpoints": "端点",
     "apiManager": "API 管理",
     "logs": "日志",
+    "webhooks": "Webhooks",
     "auditLog": "审计日志",
     "shutdown": "停止服务",
     "restart": "重启服务",
